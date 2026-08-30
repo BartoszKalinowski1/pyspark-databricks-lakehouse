@@ -93,4 +93,4 @@ Relationships between the imported gold tables in Power BI.
 
 ## Related project
 
-The same dataset was previously analyzed with classic SQL + Power BI on PostgreSQL in [`sql-ecommerce-analysis`](#) — this project revisits it on a Spark/lakehouse stack to compare approaches.
+The same dataset was previously analyzed with classic SQL + Power BI on PostgreSQL in [`sql-ecommerce-analysis`](https://github.com/BartoszKalinowski1/sql-ecommerce-analysis) — this project revisits it on a Spark/lakehouse stack to compare approaches.
